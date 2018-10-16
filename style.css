@@ -1,0 +1,51 @@
+#bgColor
+{
+    background-color: #34495e;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#mainTitle
+{
+    font-size: 40px;
+    color: white;
+    height: 100px;
+    font-weight: bold;
+}
+
+.personBackgroundColor
+{
+    background-color: orangered;
+    line-height: 25px;
+}
+
+
+table 
+{   
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableSpacing
+{
+    width:10%;
+}
+
+.employeeName
+{
+    font-weight: bold;
+    font-size: 120%;
+    color: white;
+}
+
+.personalDataTextColor
+{
+    color: white;
+    font-weight: bold;
+}
+
+.personalDataInputsStyles
+{
+    color: #f1c40f;
+    margin-left: 5px;
+    font-weight: normal;
+}
