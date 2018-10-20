@@ -12,12 +12,13 @@
     font-weight: bold;
 }
 
+/* Като четеш името на класа, някъкси не се сещам че ще бутаме и line-height-та не елемента
+Слагай малко по абстрактни имена на класовете, за пример:  .businessCard*/
 .personBackgroundColor
 {
     background-color: orangered;
     line-height: 25px;
 }
-
 
 table 
 {   
